@@ -14,11 +14,11 @@
   </a>
 </h3>
 <p align= "center">
-    <a href="https://github.com/hadikachmar3/grocery_admin_panel_course/blob/master/">
+    <a href="https://github.com/hadikachmar3/grocery_admin_panel_course">
      <kbd>
         <img height= "150" src="https://user-images.githubusercontent.com/38382273/171286502-66810061-f1cd-4c33-9e73-9ff856459226.png" alt="Flutter grocery admin panel">
         <br>
-        <font size="1"> Press here for the Admin Panel <<br> source code /font>
+        <font size="1"> Press here for the Admin Panel <br> source code </font>
      </kbd>
   </a>
 </p>
