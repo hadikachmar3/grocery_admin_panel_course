@@ -14,14 +14,11 @@
   </a>
 </h3>
 <p align= "center">
-  
-    <a href="https://www.udemy.com/course/flutter-210firebase-build-a-grocery-app-with-admin-panel/?couponCode=EARLY_BIRD">
+    <a href="https://github.com/hadikachmar3/grocery_admin_panel_course/blob/master/">
      <kbd>
-        <img height= "150" src="[https://user-images.githubusercontent.com/38382273/167090270-f4559177-27d1-49d1-9afe-6411e7cbd25d.png](https://user-images.githubusercontent.com/38382273/171286502-66810061-f1cd-4c33-9e73-9ff856459226.png)" alt="Flutter grocery admin panel">
+        <img height= "150" src="https://user-images.githubusercontent.com/38382273/171286502-66810061-f1cd-4c33-9e73-9ff856459226.png" alt="Flutter grocery admin panel">
         <br>
-        <font size="1">Flutter 3.0&Firebase Build a grocery app<br> with Admin Panel</font>
-        <br><br>
-        <font size="2"> 4.8 ⭐ </font>
+        <font size="1"> Press here for the Admin Panel <<br> source code /font>
      </kbd>
   </a>
 </p>
