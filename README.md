@@ -1,6 +1,4 @@
-# grocery_admin_panel
-
-# Grocery app Flutter course
+# Flutter 3.0&Firebase Build a grocery app with Admin Panel
 
 [![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube] 
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)][udemy]
@@ -15,13 +13,24 @@
     👨🏻‍🎓 Get this course
   </a>
 </h3>
+<p align= "center">
   
+    <a href="https://www.udemy.com/course/flutter-210firebase-build-a-grocery-app-with-admin-panel/?couponCode=EARLY_BIRD">
+     <kbd>
+        <img height= "150" src="[https://user-images.githubusercontent.com/38382273/167090270-f4559177-27d1-49d1-9afe-6411e7cbd25d.png](https://user-images.githubusercontent.com/38382273/171286502-66810061-f1cd-4c33-9e73-9ff856459226.png)" alt="Flutter grocery admin panel">
+        <br>
+        <font size="1">Flutter 3.0&Firebase Build a grocery app<br> with Admin Panel</font>
+        <br><br>
+        <font size="2"> 4.8 ⭐ </font>
+     </kbd>
+  </a>
+</p>
 <p align= "center">
   <a href="https://www.udemy.com/course/flutter-210firebase-build-a-grocery-app-with-admin-panel/?couponCode=EARLY_BIRD">
      <kbd>
         <img height= "150" src="https://user-images.githubusercontent.com/38382273/167090270-f4559177-27d1-49d1-9afe-6411e7cbd25d.png" alt="Flutter grocery course">
         <br>
-        <font size="1">Flutter 2.10&Firebase Build a grocery app<br> with Admin Panel</font>
+        <font size="1">Flutter 3.0&Firebase Build a grocery app<br> with Admin Panel</font>
         <br><br>
         <font size="2"> 4.8 ⭐ </font>
      </kbd>
