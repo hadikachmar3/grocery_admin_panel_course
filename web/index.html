@@ -100,5 +100,24 @@
       loadMainDartJs();
     }
   </script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-storage.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-analytics.js"></script>
+  
+  <script>
+  const firebaseConfig = {
+    apiKey: "AIzaSyDX5HzR-fCAfgStOUpaIzk4O_WwEtFg6fs",
+    authDomain: "grocery-app-3b8de.firebaseapp.com",
+    projectId: "grocery-app-3b8de",
+    storageBucket: "grocery-app-3b8de.appspot.com",
+    messagingSenderId: "211522283140",
+    appId: "1:211522283140:web:7a17a66509fb635c22c4d1"
+  };
+  
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+  </script>
 </body>
 </html>

@@ -3,8 +3,6 @@ import 'package:grocery_admin_panel/consts/constants.dart';
 
 import '../responsive.dart';
 
-
-
 class ButtonsWidget extends StatelessWidget {
   const ButtonsWidget({
     Key? key,
@@ -13,6 +11,7 @@ class ButtonsWidget extends StatelessWidget {
     required this.icon,
     required this.backgroundColor,
   }) : super(key: key);
+  // You can use Function instead of VoidCallback
   final VoidCallback onPressed;
   final String text;
   final IconData icon;
@@ -30,7 +29,10 @@ class ButtonsWidget extends StatelessWidget {
       onPressed: () {
         onPressed();
       },
-      icon: Icon(icon, size: 20,),
+      icon: Icon(
+        icon,
+        size: 20,
+      ),
       label: Text(text),
     );
   }

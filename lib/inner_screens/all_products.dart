@@ -37,14 +37,20 @@ class _AllProductsScreenState extends State<AllProductsScreen> {
                 // It takes 5/6 part of the screen
                 flex: 5,
                 child: SingleChildScrollView(
+                  controller: ScrollController(),
                   child: Column(
                     children: [
+                      const SizedBox(
+                        height: 25,
+                      ),
                       Header(
                         fct: () {
-                          context
-                              .read<MenuController>()
-                              .controlProductsMenu();
+                          context.read<MenuController>().controlProductsMenu();
                         },
+                        title: 'All products',
+                      ),
+                      const SizedBox(
+                        height: 25,
                       ),
                       Responsive(
                         mobile: ProductGridWidget(
