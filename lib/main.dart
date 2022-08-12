@@ -7,9 +7,11 @@ import 'consts/theme_data.dart';
 import 'controllers/MenuController.dart';
 import 'inner_screens/add_prod.dart';
 import 'providers/dark_theme_provider.dart';
+
+// import 'firebase_options.dart';
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform,);
+  // await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform,);
   runApp(const MyApp());
 }
 
